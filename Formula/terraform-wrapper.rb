@@ -12,8 +12,4 @@ class TerraformWrapper < Formula
 	def install
 		bin.install "tfw"
 	end
-
-	test do
-		system bin/"tfw", "help"
-	end
 end
