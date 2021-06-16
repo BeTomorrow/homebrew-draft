@@ -1,8 +1,8 @@
 class Pms < Formula
   desc "Postman sync tool"
   homepage "https://github.com/BeTomorrow/pms"
-  url "https://github.com/BeTomorrow/pms/archive/v0.2.0-alpha.tar.gz"
-  sha256 "1b5a70b6c77fed79fc0847b66f4049c87647babbdd6fb3363ac0ac09dfec4482"
+  url "https://github.com/BeTomorrow/pms/archive/v0.3.0-alpha.tar.gz"
+  sha256 "f0ee4ab5f91e064fa93394702fed7e7d562b60feb5dc048c472bc05a50aed61a"
   head "https://github.com/BeTomorrow/pms"
 
   bottle :unneeded
