@@ -5,8 +5,6 @@ class TerraformWrapper < Formula
   sha256 "35d4c14e4f76ea4c43652da799cfded41a82ac28e392d4a66ad83a04d8e5079e"
   head "https://github.com/BeTomorrow/terraform-wrapper"
 
-  bottle :unneeded
-
   depends_on "tfenv"
 
   def install
